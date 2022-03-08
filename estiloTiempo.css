@@ -1,0 +1,57 @@
+#header {
+      background: #777D7E;
+      color: #000;
+      font-family: Droid Sans;
+      font-size: 30px;
+      line-height: 1.6em;
+      font-weight: bold;
+      text-align: center;
+      padding: 10px;
+      text-shadow: 0 1px 1px rgba(0,0,0,.2);
+      width:100%;
+      box-sizing:border-box;
+      }
+body {
+      background-color: #A3AEAF;
+}
+.logo {
+      border: 1px;
+      border-radius: 4px;
+      padding: 5px;
+      width: 150px;
+      float: left;
+
+      }
+
+
+#header ul{
+   list-style-type: none;
+   text-align: center;
+}
+
+#header li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+}
+
+#header li a {
+   padding: 2px 7px 2px 7px;
+   color: #000;
+   background-color:#FCBE14;
+   
+   text-decoration: none;
+}
+
+#header li a:hover{
+   background-color: #FC9414;
+   color: #fff;
+}
+
+.ciudad {
+   border: 1px;
+      border-radius: 4px;
+      padding: 5px;
+      width: 300px;
+      float: center;
+}
